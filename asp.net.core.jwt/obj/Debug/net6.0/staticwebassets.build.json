@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "V894KxfBp0lhNy3rK0sObZDhQ87nFILSGsTHg0DQKAQ=",
+  "Source": "asp.net.core.jwt",
+  "BasePath": "_content/asp.net.core.jwt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

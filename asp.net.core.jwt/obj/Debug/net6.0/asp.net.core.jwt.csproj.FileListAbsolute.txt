@@ -1,0 +1,68 @@
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.exe
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.deps.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.runtimeconfig.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.pdb
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.AssemblyInfo.cs
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\scopedcss\bundle\asp.net.core.jwt.styles.css
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.CopyComplete
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\refint\asp.net.core.jwt.dll
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.pdb
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.genruntimeconfig.cache
+C:\Users\User\Downloads\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\ref\asp.net.core.jwt.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\appsettings.Development.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\appsettings.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.exe
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.deps.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.runtimeconfig.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\asp.net.core.jwt.pdb
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.AssemblyReference.cache
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.GeneratedMSBuildEditorConfig.editorconfig
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.AssemblyInfoInputs.cache
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.AssemblyInfo.cs
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.CoreCompileInputs.cache
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.MvcApplicationPartsAssemblyInfo.cs
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.MvcApplicationPartsAssemblyInfo.cache
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\staticwebassets.build.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\staticwebassets.development.json
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\scopedcss\bundle\asp.net.core.jwt.styles.css
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.csproj.CopyComplete
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\refint\asp.net.core.jwt.dll
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.pdb
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\asp.net.core.jwt.genruntimeconfig.cache
+D:\מחשב\הנדסת תוכנה\תוספות שלי\asp.net.core.jwt\asp.net.core.jwt\obj\Debug\net6.0\ref\asp.net.core.jwt.dll
